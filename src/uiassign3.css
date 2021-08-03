@@ -1,0 +1,98 @@
+.ui_container{
+        margin: 0px;
+        padding: 0px;
+        box-sizing:border-box;
+}
+
+.uimain_container{
+    width: 40%;
+    height: 100vh;
+    margin: 20px auto;
+    background-color:rgb(247, 248, 247);
+    padding: 10px;
+}
+
+.uiwhite_bag{
+    background-color: white;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding-bottom: 20px;
+    border-radius: 1px;
+}
+
+.uihead{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+.ui_banner{
+    padding: 0px 20px;
+    margin-top: -35px;
+}
+
+.ui_banner p{
+    margin-top: -20px;
+}
+
+.ui3banner_para{
+    color:#797676;
+
+}
+
+.ui3banner_head{
+    font-size: 25px;
+    color:#292828;
+    font-weight: bold;
+    opacity: 0.9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ui3_vericode{
+    background-color:rgb(247, 248, 247);
+    font-size: xx-large;
+    font-weight: 600;
+    color:#292828;
+    font-family: 'Poppins';
+    width: 100%;
+    /* height: 100px; */
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ui3_veridata{
+    color:#615a5a;
+    margin-top: 10px;
+}
+
+.ui3_emailpar{
+    font-size: 15px; 
+    color:#413e3e;
+    font-weight: 400;
+    opacity: 0.9;
+}
+
+.ui3_veri{
+    padding: 0px 20px;
+    margin-top: 30px;
+}
+
+.ui3_emailconf{
+    padding: 0px 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.ui3emailconf_btn{
+    background-color: rgb(245, 86, 29);
+    color: rgb(231, 216, 216);
+    border: none;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+

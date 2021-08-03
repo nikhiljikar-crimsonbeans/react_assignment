@@ -1,0 +1,17 @@
+
+ul, li{
+  list-style: none;
+}
+ 
+.search_inp{
+  width: 300px;
+  height: 30px;
+}
+button{
+  width: auto;
+  height: 40px;
+}
+
+.nav_bar{
+  background-color:rgb(14, 14, 26)
+}
